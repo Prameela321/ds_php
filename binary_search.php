@@ -1,7 +1,13 @@
 <?php
 
 function binarySearch($arr,$x){
-
+   $l = 0;
+   $r = count($arr)-1;
+   $mid ;
+   while($r>=$l){
+        echo 'test';
+   }
+   
 }
 
 
